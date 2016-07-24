@@ -1,3 +1,5 @@
+package com.liml.datastruct;
+
 /**
  * Created by bright on 16-7-13.
  */

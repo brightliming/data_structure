@@ -1,3 +1,5 @@
+package com.liml.datastruct;
+
 import java.util.Scanner;
 
 /**
